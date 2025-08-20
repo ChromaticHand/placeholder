@@ -1,5 +1,4 @@
-## Database Sharding
+# Place Holder
 
-- [Herding elephants: lessons learned from sharding Postgres at Notion](https://www.notion.com/blog/sharding-postgres-at-notion): This article details the process of sharding Notions PostgreSQL monolith into a horizontally-partitioned database fleet. It covers the decision-making process, architectural design, and lessons learned during the migration, focusing on improving application performance and reliability.
-    - License: MIT
-
+## Web Development
+- [Getting Started with Python HTTP Requests for REST APIs](https://www.datacamp.com/tutorial/making-http-requests-in-python): This tutorial covers making GET and POST requests using the Python requests module, explaining REST APIs, HTTP methods, and how to handle potential errors like timeouts and connection issues. It also demonstrates authentication with APIs like GitHub.
