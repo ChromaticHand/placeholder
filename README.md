@@ -10,3 +10,6 @@
 
 ### Data Engineering
 - [How Notion built and grew our data lake to keep up with rapid growth](https://www.notion.com/blog/building-and-scaling-notions-data-lake): This article details how Notion built and scaled its data lake to accommodate rapid growth, focusing on the technical challenges and solutions involved in managing a tenfold increase in data volume over three years. It covers the migration from a sharded Postgres architecture to an in-house data lake solution using technologies like Kafka, Apache Hudi, and Spark, highlighting the benefits of cost savings and improved performance for AI and other product features.
+
+### Artificial Intelligence
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of LLM apps featuring AI Agents and Retrieval-Augmented Generation (RAG), utilizing models from OpenAI, Anthropic, Google, and open-source alternatives. The repository showcases practical applications across various domains, encouraging learning and contribution to the open-source LLM ecosystem.
